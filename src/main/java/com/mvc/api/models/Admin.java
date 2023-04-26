@@ -1,4 +1,4 @@
-package com.api.models;
+package com.mvc.api.models;
 
 public class Admin extends Account{
 	private String code;
